@@ -58,7 +58,7 @@ int main (){
         system ("CLS");
     cout << endl;
 
-    cout <<"==============================================\n";
+    cout <<"========================================================\n";
     cout << endl;
     cout << " > RIWAYAT METERAN LISTRIK\n";
     cout << endl;
@@ -66,7 +66,7 @@ int main (){
     cout << "* Pemakaian Bulan 1 : " << bulan1 << endl;
     cout << "* Pemakaian Bulan 2 : " << bulan2 << endl;
     cout << endl;
-    cout <<"==============================================\n";
+    cout <<"========================================================\n";
     cout << endl;
 
     cout << " > INFORMASI PEMBAYARAN TAGIHAN PLN \n";
@@ -114,7 +114,7 @@ int main (){
     cout << "* Total Pembayaran \t\t\t: Rp. "<< total << endl;
     cout << endl;
 
-    cout <<"==============================================\n";
+    cout <<"========================================================\n";
     cout << endl;
 
     cout << "> METODE PEMBAYARAN\n";
